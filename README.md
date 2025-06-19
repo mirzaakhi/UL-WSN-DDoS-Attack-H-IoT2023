@@ -1,7 +1,7 @@
 # WSN-DDoS-Attack-H-IoT2023
 
-This repository contains the dataset and preprocessing notebook used to develop the IEEE poster paper:
-**"Time Series Anomaly Detection with CNN for Environmental Sensors in Healthcare-IoT" (IEEE 2024)**
+This repository contains the dataset and preprocessing notebook used to develop the poster paper presented at **The 12th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024)**: 
+[**"Time Series Anomaly Detection with CNN for Environmental Sensors in Healthcare-IoT" (IEEE 2024)**](https://ieeexplore.ieee.org/abstract/document/10628718)
 
 The dataset captures **Distributed Denial-of-Service (DDoS)** attacks in a Wireless Sensor Network (WSN) deployed within a Healthcare-IoT (H-IoT) environment. It is generated using the **Cooja IoT network simulator**, with environmental sensors primarily monitoring **room temperature and humidity**. A **Convolutional Neural Network (CNN)** model is trained on this dataset and achieves an accuracy of **92%**.
 
